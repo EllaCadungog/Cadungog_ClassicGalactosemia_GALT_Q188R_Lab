@@ -127,10 +127,14 @@ The analysis was based on computational sequence translation and alignment. Thes
 
 The analysis demonstrated that the documented **GALT c.563A>G** variant is a missense mutation producing the **Q188R** amino-acid substitution. The mutation preserves the reading frame and predicted protein length while changing one amino acid at position 188. The artificial **c.564G>A** mutation similarly produces a missense substitution, **R188K**, without altering protein length or reading frame. These results demonstrate how single-nucleotide substitutions can produce localized changes in protein sequence while potentially affecting protein function.
 
-## References
+### References
 
-Fridovich-Keil, J. L., et al. (1995). GALT-related classic galactosemia research.
+Berry, G. T. (2021). Classic galactosemia and clinical variant galactosemia. In M. P. Adam, S. Bick, G. M. Mirzaa, et al. (Eds.), *GeneReviews®*. University of Washington, Seattle. https://www.ncbi.nlm.nih.gov/books/NBK1518/
 
-Elsevier, J. P., & Fridovich-Keil, J. L. (1996). GALT-related galactosemia research.
+National Center for Biotechnology Information. (n.d.). *Galactosemia (Concept ID: C0016952).* NCBI MedGen. https://www.ncbi.nlm.nih.gov/medgen/C0016952
 
-Markham, G. D., et al. (1999). GALT mutation and galactosemia research.
+National Library of Medicine. (n.d.). *GALT gene: Galactose-1-phosphate uridylyltransferase.* MedlinePlus Genetics. https://medlineplus.gov/genetics/gene/galt/
+
+National Center for Biotechnology Information. (n.d.). *NM_000155.3(GALT):c.563A>G (p.Gln188Arg) and deficiency of UDPglucose-hexose-1-phosphate uridylyltransferase.* ClinVar. https://www.ncbi.nlm.nih.gov/clinvar/RCV000003798.6/
+
+Coelho, A. I., Trabuco, M., Ramos, R., Silva, M. J., Tavares de Almeida, I., Leandro, P., Rivera, I., & Vicente, J. B. (2014). Functional and structural impact of the most prevalent missense mutations in classic galactosemia. *Molecular Genetics and Genomic Medicine, 2*(6), 484–496. https://doi.org/10.1002/mgg3.94
