@@ -45,7 +45,7 @@ The **GALT c.563A>G** mutation is predicted to produce a missense substitution i
 
 **6.** **Sequence Alignment:** Needle was used to compare the wild-type and mutant GALT protein sequences and determine sequence identity, similarity, gaps, and amino-acid differences.
 
-**7.** **Workflow Management:** Sequence processing, mutation construction, translation, and alignment were performed using Galaxy and documented through GitHub.
+**7.** **Workflow Management:** Sequence processing, mutation construction, translation, and alignment were performed using Galaxy (https://usegalaxy.org/u/ella_cadungog/h/cadungog-classicgalactosemia-galt-q188r-lab) and documented through GitHub.
 
 # Results
 
