@@ -25,7 +25,7 @@ GALT catalyzes the transfer of a uridylyl group from UDP-glucose to galactose-1-
 | Mutation Type | Missense variant / single-nucleotide substitution |
 | ClinVar Accession | VCV000003614.140 |
 | Clinical Interpretation | Pathogenic |
-| Reference | Fridovich-Keil et al. (1995); Elsevier & Fridovich-Keil (1996); Markham et al. (1999) |
+| Reference | Fridovich-Keil et al. (1995); Elsevier & Fridovich-Keil (1996) |
 
 ## Hypothesis
 
