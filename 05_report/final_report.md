@@ -33,19 +33,19 @@ The **GALT c.563A>G** mutation is predicted to produce a missense substitution i
 
 ## Methods
 
-**Sequence Retrieval:** The human GALT wild-type coding sequence was obtained using reference transcript **NM_000155.4**.
+**1****Sequence Retrieval:** The human GALT wild-type coding sequence was obtained using reference transcript **NM_000155.4**.
 
-**Control Translation:** The wild-type CDS was translated using the Galaxy translation tool in **Frame 1** to obtain the predicted GALT protein sequence.
+**2****Control Translation:** The wild-type CDS was translated using the Galaxy translation tool in **Frame 1** to obtain the predicted GALT protein sequence.
 
-**Documented Mutation Engineering:** The nucleotide at position 563 was changed from **A to G** to reproduce the documented **c.563A>G** variant.
+**3****Documented Mutation Engineering:** The nucleotide at position 563 was changed from **A to G** to reproduce the documented **c.563A>G** variant.
 
-**Mutant Translation:** The modified CDS was translated using the same procedure as the wild-type sequence. The resulting protein was compared with the wild-type sequence to identify amino-acid changes, protein-length changes, and premature stop codons.
+**4****Mutant Translation:** The modified CDS was translated using the same procedure as the wild-type sequence. The resulting protein was compared with the wild-type sequence to identify amino-acid changes, protein-length changes, and premature stop codons.
 
-**Artificial Mutation:** A second single-nucleotide substitution was created at position 564, changing the codon from **AGG to AAG**. This was predicted to change arginine (R) to lysine (K).
+**5****Artificial Mutation:** A second single-nucleotide substitution was created at position 564, changing the codon from **AGG to AAG**. This was predicted to change arginine (R) to lysine (K).
 
-**Sequence Alignment:** Needle was used to compare the wild-type and mutant GALT protein sequences and determine sequence identity, similarity, gaps, and amino-acid differences.
+**6****Sequence Alignment:** Needle was used to compare the wild-type and mutant GALT protein sequences and determine sequence identity, similarity, gaps, and amino-acid differences.
 
-**Workflow Management:** Sequence processing, mutation construction, translation, and alignment were performed using Galaxy and documented through GitHub.
+**7****Workflow Management:** Sequence processing, mutation construction, translation, and alignment were performed using Galaxy and documented through GitHub.
 
 # Results
 
