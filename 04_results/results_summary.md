@@ -14,4 +14,15 @@ The wild-type GALT protein contains 379 amino acids. The documented mutation c.5
 | Expected Consequence | Normal GALT function | May alter GALT structure/function | May alter local GALT properties; requires validation |
 
 ## Alignment Results
-The protein alignment shows that both mutations are localized to amino acid position 188. No insertions, deletions, frameshifts, or premature stop codons occur. The remaining GALT amino acid sequence is unchanged, indicating that both mutations produce localized amino acid substitutions rather than widespread changes in the protein sequence.
+The Needle alignment showed **99.7% identity (379/380)** and **100% similarity (380/380)** between the two GALT protein sequences. No gaps were detected, indicating that the mutation did not cause an insertion, deletion, or frameshift. The only amino acid difference occurs at **position 188**, where glutamine (Q) is replaced by arginine (R), corresponding to **p.Gln188Arg (Q188R)**. The remaining amino acid sequence is conserved.
+
+| Parameter | Needle Alignment Result |
+|---|---:|
+| Alignment Length | 380 aa |
+| Identity | 379/380 (99.7%) |
+| Similarity | 380/380 (100%) |
+| Gaps | 0/380 (0%) |
+| Score | 2058.0 |
+| Amino Acid Change | Q188R |
+| Frameshift | None |
+| Premature Stop Codon | None |
