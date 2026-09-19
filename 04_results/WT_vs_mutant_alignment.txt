@@ -1,1 +1,69 @@
+########################################
+# Program: needle
+# Rundate: Thu 17 Sep 2026 03:46:21
+# Commandline: needle
+#    -asequence /jetstream2/scratch/main/jobs/79810351/inputs/dataset_7626e45e-addd-4801-aec6-185d49f678b3.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79810351/inputs/dataset_95b5fc66-d007-42c3-a067-5801a40e8432.dat
+#    -outfile /jetstream2/scratch/main/jobs/79810351/outputs/dataset_a174abbf-8b90-43f5-a89c-e423cebb6c16.dat
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -brief yes
+#    -aformat3 srspair
+#    -auto
+# Align_format: srspair
+# Report_file: /jetstream2/scratch/main/jobs/79810351/outputs/dataset_a174abbf-8b90-43f5-a89c-e423cebb6c16.dat
+########################################
 
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NM_000155.4_cds_NP_000146.2_1_1
+# 2: NM_000155.4_cds_NP_000146.2_1_1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 380
+# Identity:     379/380 (99.7%)
+# Similarity:   380/380 (100.0%)
+# Gaps:           0/380 ( 0.0%)
+# Score: 2058.0
+# 
+#
+#=======================================
+
+NM_000155.4_c      1 MSRSGTDPQQRQQASEADAAAATFRANDHQHIRYNPLQDEWVLVSAHRMK     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c      1 MSRSGTDPQQRQQASEADAAAATFRANDHQHIRYNPLQDEWVLVSAHRMK     50
+
+NM_000155.4_c     51 RPWQGQVEPQLLKTVPRHDPLNPLCPGAIRANGEVNPQYDSTFLFDNDFP    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c     51 RPWQGQVEPQLLKTVPRHDPLNPLCPGAIRANGEVNPQYDSTFLFDNDFP    100
+
+NM_000155.4_c    101 ALQPDAPSPGPSDHPLFQAKSARGVCKVMCFHPWSDVTLPLMSVPEIRAV    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c    101 ALQPDAPSPGPSDHPLFQAKSARGVCKVMCFHPWSDVTLPLMSVPEIRAV    150
+
+NM_000155.4_c    151 VDAWASVTEELGAQYPWVQIFENKGAMMGCSNPHPHCQVWASSFLPDIAQ    200
+                     |||||||||||||||||||||||||||||||||||||:||||||||||||
+NM_000155.4_c    151 VDAWASVTEELGAQYPWVQIFENKGAMMGCSNPHPHCRVWASSFLPDIAQ    200
+
+NM_000155.4_c    201 REERSQQAYKSQHGEPLLMEYSRQELLRKERLVLTSEHWLVLVPFWATWP    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c    201 REERSQQAYKSQHGEPLLMEYSRQELLRKERLVLTSEHWLVLVPFWATWP    250
+
+NM_000155.4_c    251 YQTLLLPRRHVRRLPELTPAERDDLASIMKKLLTKYDNLFETSFPYSMGW    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c    251 YQTLLLPRRHVRRLPELTPAERDDLASIMKKLLTKYDNLFETSFPYSMGW    300
+
+NM_000155.4_c    301 HGAPTGSEAGANWNHWQLHAHYYPPLLRSATVRKFMVGYEMLAQAQRDLT    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+NM_000155.4_c    301 HGAPTGSEAGANWNHWQLHAHYYPPLLRSATVRKFMVGYEMLAQAQRDLT    350
+
+NM_000155.4_c    351 PEQAAERLRALPEVHYHLGQKDRETATIA*    380
+                     ||||||||||||||||||||||||||||| 
+NM_000155.4_c    351 PEQAAERLRALPEVHYHLGQKDRETATIA*    380
+
+
+#---------------------------------------
+#---------------------------------------
